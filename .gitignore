@@ -1,0 +1,4 @@
+.env
+# Ignore secrets files
+.streamlit/secrets.toml
+secrets.toml
