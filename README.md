@@ -51,7 +51,3 @@ This AI assistant is not a substitute for professional medical advice, diagnosis
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/akhilesh1709/medical-ai-assistant/issues) if you want to contribute.
-
-## Author
-
-Your Name - [Your GitHub Profile](https://github.com/akhilesh1709)
